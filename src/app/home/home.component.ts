@@ -9,7 +9,14 @@ export class HomeComponent implements OnInit {
 
   constructor() { }
 
+
+  clickCounter = 0;
+
   ngOnInit(): void {
+  }
+
+  countClick() {
+    this.clickCounter += 1;
   }
 
 }
