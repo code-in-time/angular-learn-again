@@ -17,6 +17,11 @@ ng new angular-learn-again
 ng serve -o
 ```
 
+- Add a service
+```
+ ng g s http
+ ```
+
 - https://coursetro.com/posts/code/174/Angular-8-Tutorial-&-Crash-Course
 - https://www.youtube.com/watch?v=_TLhUCjY9iA&t=77s
 
