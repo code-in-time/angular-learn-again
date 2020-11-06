@@ -1,5 +1,35 @@
 # AngularLearnAgain
 
+
+### Notes
+
+- Install angular cli
+```
+npm i -g @angular/cli
+```
+- Make a new app
+```
+ng new angular-learn-again
+```
+
+- serve the app
+```
+ng serve -o
+```
+
+- https://coursetro.com/posts/code/174/Angular-8-Tutorial-&-Crash-Course
+- https://www.youtube.com/watch?v=_TLhUCjY9iA&t=77s
+
+--------------------------------------------------------
+
+
+
+
+
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
 ## Development server
