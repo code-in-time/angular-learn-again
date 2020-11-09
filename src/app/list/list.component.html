@@ -1,1 +1,11 @@
 <p>list works!</p>
+
+<h2>Breweries</h2>
+
+<ul *ngIf="brews">
+  <li *ngFor="let item of brews; index as i;">
+     {{item.name}}  {{item.id}} ---- {{i}}
+  </li>
+</ul>
+
+
